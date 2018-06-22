@@ -9,6 +9,41 @@
 }
 
 /* universal */
+.container{
+  width: 100%;
+  
+}
+
+.center {
+  background-color: #4CAF50;
+  color :#FFFFFF;
+  
+  
+}
+
+.center h2{
+  color: #FFFFFF;
+}
+
+.navbar{
+  background-color: #388E3C;
+  
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #ffffff;
+  
+}
+
+nav > ul {
+  
+  border-right: 1px solid #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li  {
+  border-left:  1px solid #ffffff;
+  
+}
 
 body {
   padding-top: 60px;
@@ -83,6 +118,7 @@ footer {
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: #777;
+ 
 }
 
 footer a {
